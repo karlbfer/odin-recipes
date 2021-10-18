@@ -1,0 +1,1 @@
+This is the landing page for 'The Odin Project' project for the HTML project I will begin and finish. To fully showcase my "mastery" of the skills so far, I will show off the basic structure of HTML boilerplate, ordered + unordered lists, absolute links and relative links, as well as images. 
